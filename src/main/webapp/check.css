@@ -1,0 +1,12 @@
+.my-box {
+  width: 200px; /* Set a width for your box */
+  height: 100px; /* Set a height for your box */
+  border: 5px solid black; /* This adds the border */
+  padding: 50px; /* Add some padding to create space between content and border */
+  margin: 20px; /* Add some margin for spacing around the box */
+  
+    margin: 0 auto; /* Horizontally center a block element */
+    display: flex; /* Enable flexbox for vertical centering */
+    justify-content: center; /* Horizontally center content within the box */
+    align-items: center; /* Vertically center content within the box */
+}
