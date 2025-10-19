@@ -7,9 +7,11 @@ It allows users to explore food items, view menus, and simulate ordering in a cl
 
 ## 🚀 Features
 
-- Interactive and responsive food menu  
-- View food item details (name, description, price, image)  
-- Add items to cart (or simulate order flow)  
+- Interactive and responsive food menu
+- Have two panels i.e., admin and client
+- View food item details (name, description, price)
+- Add items to cart 
+- Order food with proper bills 
 - Admin panel for adding/updating/deleting menu items  
 - MySQL database integration for persistent storage  
 - Developed and deployed using Apache Tomcat in Eclipse  
@@ -39,7 +41,6 @@ food_app/
 │ └── servlets/
 ├── WebContent/
 │ ├── css/
-│ ├── images/
 │ ├── js/
 │ └── WEB-INF/
 │ └── web.xml
