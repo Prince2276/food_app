@@ -50,6 +50,8 @@ food_app/
 
 ---
 
+
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
@@ -83,7 +85,9 @@ Right-click project → Run on Server
 
 Open browser → http://localhost:8080/food_app
 
-📋 Future Enhancements
+```
+
+##  Future Enhancements
 
 Add user login & authentication
 
@@ -97,7 +101,7 @@ Improve UI with modern frameworks (e.g., Bootstrap)
 
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Prince Burnwal
 📧 princeburnwal20@gmail.com
