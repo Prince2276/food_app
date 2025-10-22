@@ -95,9 +95,7 @@ Integrate payment gateway
 
 Improve UI with modern frameworks (e.g., Bootstrap)
 
-📸 Screenshots (optional)
 
-Add screenshots of your UI here (e.g., homepage, menu page, admin panel)
 
 👨‍💻 Author
 
