@@ -89,21 +89,22 @@ Open browser → http://localhost:8080/food_app
 
 ##  Future Enhancements
 
-Add user login & authentication
+* Add user login & authentication
 
-Implement real cart and checkout system
+* Implement real cart and checkout system
 
-Add image upload for menu items
+* Add image upload for menu items
 
-Integrate payment gateway
+* Integrate payment gateway
 
-Improve UI with modern frameworks (e.g., Bootstrap)
+* Improve UI with modern frameworks (e.g., Bootstrap)
 
 
 
 ## 👨‍💻 Author
 
 Prince Burnwal
+
 📧 princeburnwal20@gmail.com
 
 🌐 github.com/Prince2276
